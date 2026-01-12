@@ -105,6 +105,11 @@ hobbies:
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#262](https://github.com/su-kaka/gcli2api/pull/262) in [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api)
+2. ❗ Opened issue [#936](https://github.com/router-for-me/CLIProxyAPI/issues/936) in [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+3. ❗ Opened issue [#23](https://github.com/CooperJiang/coding-tool/issues/23) in [CooperJiang/coding-tool](https://github.com/CooperJiang/coding-tool)
+4. 🗣 Commented on [#21](https://github.com/CooperJiang/coding-tool/issues/21#issuecomment-3667433216) in [CooperJiang/coding-tool](https://github.com/CooperJiang/coding-tool)
+5. ❗ Opened issue [#21](https://github.com/CooperJiang/coding-tool/issues/21) in [CooperJiang/coding-tool](https://github.com/CooperJiang/coding-tool)
 <!--END_SECTION:activity-->
 
 ---
